@@ -1,0 +1,62 @@
+body{
+    background: #2c2c2c;
+}
+.index-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.head-title{
+    color: #3b7ff6;
+    margin-top: 30px;
+}
+.main-index{
+    height: 100px;
+    width: 400px;
+    background-color: rgba(126, 165, 229, 0.7) ;
+    margin-top: 100px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.button-box{
+    display: flex;
+    justify-content: space-around;
+
+}
+.button-bg{
+    height: 30px;
+    width: 150px;
+    background: #7e98e5;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.button-s{
+    text-decoration: none;
+    color:white;
+
+
+}
+.main-tour{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.tour-list{
+
+}
+.card{
+    margin:10px;
+}
+
+.actual-tours-text{
+    color:red;
+}
